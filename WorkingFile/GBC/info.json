@@ -1,5 +1,5 @@
    {
-  "name": "GAMEBABY_GBC1.3",
+  "name": "GAMEBABY_GBC1.4",
   "identifier": "com.GBC.BitmoLab-GAMEBABY",
   "gameTypeIdentifier": "com.rileytestut.delta.game.gbc",
   "debug": false,
@@ -21,16 +21,16 @@
                 "right": "right"
               },
               "frame": {
-                "x": 26,
-                "y": 628,
-                "width": 150,
-                "height": 150
+                "x": 23,
+                "y": 635,
+                "width": 164,
+                "height": 164
               },
               "extendedEdges" : {
-                "top": 15,
-                "right" : 15,
-                "bottom" : 15,
-                "left" : 15
+                "top": 5,
+                "right" : 5,
+                "bottom" : 5,
+                "left" : 5
               }
             },
             {
@@ -38,8 +38,8 @@
                 "b"
               ],
               "frame": {
-                "x": 256,
-                "y": 718,
+                "x": 265,
+                "y": 730,
                 "width": 64,
                 "height": 64
               },
@@ -55,8 +55,8 @@
                 "a"
               ],
               "frame": {
-                "x": 323,
-                "y": 649,
+                "x": 333,
+                "y": 662,
                 "width": 64,
                 "height": 64
               },
@@ -72,8 +72,8 @@
                 "fastForward"
               ],
               "frame": {
-                "x": 388,
-                "y": 617,
+                "x": 398,
+                "y": 629,
                 "width": 32,
                 "height": 32
               },
@@ -89,16 +89,16 @@
                 "l"
               ],
               "frame": {
-                "x": 20,
-                "y": 536,
-                "width": 90,
-                "height": 53
+                "x": 11,
+                "y": 554,
+                "width": 96,
+                "height": 40
               },
               "extendedEdges" : {
-                "top": 5,
-                "right" : 5,
-                "bottom" : 5,
-                "left" : 5
+                "top": 10,
+                "right" : 10,
+                "bottom" : 0,
+                "left" : 10
               }
             },
             {
@@ -106,16 +106,16 @@
                 "r"
               ],
               "frame": {
-                "x": 320,
-                "y": 536,
-                "width": 90,
-                "height": 53
+                "x": 331,
+                "y": 554,
+                "width": 96,
+                "height": 40
               },
               "extendedEdges" : {
-                "top": 5,
-                "right" : 5,
-                "bottom" : 5,
-                "left" : 5
+                "top": 10,
+                "right" : 10,
+                "bottom" : 0,
+                "left" : 10
               }
             },
             {
@@ -123,15 +123,15 @@
                 "start"
               ],
               "frame": {
-                "x": 223,
-                "y": 869,
-                "width": 65,
+                "x": 229,
+                "y": 882,
+                "width": 60,
                 "height": 32
               },
               "extendedEdges" : {
-                "top": 0,
-                "right" : 0,
-                "bottom" : 0,
+                "top": 5,
+                "right" : 5,
+                "bottom" : 5,
                 "left" : 0
               }
             },
@@ -140,16 +140,16 @@
                 "select"
               ],
               "frame": {
-                "x": 142,
-                "y": 869,
-                "width": 65,
+                "x": 153,
+                "y": 882,
+                "width": 60,
                 "height": 32
               },
               "extendedEdges" : {
-                "top": 0,
+                "top": 5,
                 "right" : 0,
-                "bottom" : 0,
-                "left" : 0
+                "bottom" : 5,
+                "left" : 5
               }
             },
             {
@@ -157,10 +157,10 @@
                 "menu"
               ],
               "frame": {
-                "x": 328,
-                "y": 834,
-                "width": 88,
-                "height": 84
+                "x": 339,
+                "y": 842,
+                "width": 86,
+                "height": 99
               },
               "extendedEdges" : {
                 "top": 0,
@@ -174,16 +174,16 @@
                 "quickLoad"
               ],
               "frame": {
-                "x": 317,
-                "y": 454,
-                "width": 95,
-                "height": 54
+                "x": 327,
+                "y": 470,
+                "width": 98,
+                "height": 28
               },
               "extendedEdges" : {
-                "top": 0,
-                "right" : 0,
-                "bottom" : 0,
-                "left" : 0
+                "top": 5,
+                "right" : 10,
+                "bottom" : 5,
+                "left" : 5
               }
             },
             {
@@ -191,22 +191,22 @@
                 "quickSave"
               ],
               "frame": {
-                "x": 17,
-                "y": 454,
-                "width": 95,
-                "height": 54
+                "x": 15,
+                "y": 470,
+                "width": 98,
+                "height": 28
               },
               "extendedEdges" : {
-                "top": 0,
-                "right" : 0,
-                "bottom" : 0,
-                "left" : 0
+                "top": 5,
+                "right" : 5,
+                "bottom" : 5,
+                "left" : 10
               }
             }
           ],
           "mappingSize": {
-            "width": 430,
-            "height": 932
+            "width": 440,
+            "height": 956
           },
           "extendedEdges": {
             "top": 0,
@@ -226,10 +226,10 @@
                 "height": 144
               },
               "outputFrame": {
-                "x": 5,
-                "y": 63,
-                "width": 420,
-                "height": 378
+                "x": 6,
+                "y": 67,
+                "width": 428,
+                "height": 386
               }
             }
           ],
