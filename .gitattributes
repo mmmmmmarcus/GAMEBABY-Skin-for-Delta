@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# 在 GitHub 语言统计和网页界面中隐藏以下文件
+.gitattributes linguist-generated=true
+.gitignore linguist-generated=true
+.DS_Store linguist-generated=true
+*.deltaskin linguist-generated=true
